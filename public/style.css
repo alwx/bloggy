@@ -1,0 +1,71 @@
+body {
+  margin-top: 48px;
+}
+
+h1#page-title {
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+article {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  font-size: 130%;
+  line-height: 1.6em;
+}
+
+article ul li {
+  line-height: 1.6em;
+}
+
+legend {
+  font-family: "Roboto Slab", serif;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.top-bar {
+  margin-bottom: 40px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  font-size: 130%;
+}
+
+.top-bar a {
+  font-size: 110%;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.top-bar a i {
+  margin-right: 10px;
+}
+
+.top-bar .action {
+  float: right;
+  margin: 0px;
+}
+
+input.login-input {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+time {
+  float: left;
+  width: 110px;
+}
+
+footer {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  font-size: 130%;
+  line-height: 1.6em;
+  text-align: center;
+}

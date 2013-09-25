@@ -1,0 +1,29 @@
+input, textarea {
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+input[type=text], textarea {
+    width: 100%;
+}
+
+input.post-title {
+    font-weight: 400;
+    font-size: 38.5px;
+    height: 50px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 4px;
+    margin-bottom: 16px;
+}
+
+input.post-url {
+    font-size: 20px;
+}
+
+textarea.post-text {
+    resize: vertical;
+    height: 300px;
+}
